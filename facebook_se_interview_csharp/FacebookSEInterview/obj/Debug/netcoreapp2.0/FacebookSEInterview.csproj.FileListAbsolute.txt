@@ -1,0 +1,10 @@
+/Users/sunnyrajrathod/Desktop/Tech Demo Files - Sunny Rathod/facebook_se_interview_csharp/FacebookSEInterview/bin/Debug/netcoreapp2.0/FacebookSEInterview.deps.json
+/Users/sunnyrajrathod/Desktop/Tech Demo Files - Sunny Rathod/facebook_se_interview_csharp/FacebookSEInterview/bin/Debug/netcoreapp2.0/FacebookSEInterview.runtimeconfig.json
+/Users/sunnyrajrathod/Desktop/Tech Demo Files - Sunny Rathod/facebook_se_interview_csharp/FacebookSEInterview/bin/Debug/netcoreapp2.0/FacebookSEInterview.runtimeconfig.dev.json
+/Users/sunnyrajrathod/Desktop/Tech Demo Files - Sunny Rathod/facebook_se_interview_csharp/FacebookSEInterview/bin/Debug/netcoreapp2.0/FacebookSEInterview.dll
+/Users/sunnyrajrathod/Desktop/Tech Demo Files - Sunny Rathod/facebook_se_interview_csharp/FacebookSEInterview/bin/Debug/netcoreapp2.0/FacebookSEInterview.pdb
+/Users/sunnyrajrathod/Desktop/Tech Demo Files - Sunny Rathod/facebook_se_interview_csharp/FacebookSEInterview/obj/Debug/netcoreapp2.0/FacebookSEInterview.csproj.CoreCompileInputs.cache
+/Users/sunnyrajrathod/Desktop/Tech Demo Files - Sunny Rathod/facebook_se_interview_csharp/FacebookSEInterview/obj/Debug/netcoreapp2.0/FacebookSEInterview.AssemblyInfoInputs.cache
+/Users/sunnyrajrathod/Desktop/Tech Demo Files - Sunny Rathod/facebook_se_interview_csharp/FacebookSEInterview/obj/Debug/netcoreapp2.0/FacebookSEInterview.AssemblyInfo.cs
+/Users/sunnyrajrathod/Desktop/Tech Demo Files - Sunny Rathod/facebook_se_interview_csharp/FacebookSEInterview/obj/Debug/netcoreapp2.0/FacebookSEInterview.dll
+/Users/sunnyrajrathod/Desktop/Tech Demo Files - Sunny Rathod/facebook_se_interview_csharp/FacebookSEInterview/obj/Debug/netcoreapp2.0/FacebookSEInterview.pdb

@@ -1,0 +1,49 @@
+Facebook Solutions Engineering Interview Take-Home Assignment
+
+Goal:
+Complete an application for the management of a Facebook Page. The app will be
+able to create regular posts to a Facebook Page as well as Unpublished Page
+Posts. The app will be able to list posts from a page (both published and
+unpublished). As part of your task, you will need to find and fix a bug in the
+provided skeleton code.
+
+Part 1 - Facebook Pages:
+1) Make a new Facebook page. Be creative!
+
+Part 2 - Setup
+1) If you don't have the lastest Microsoft Visual Studio, install it.
+2) Open FacebookSEInterview.sln in Visual Studio.
+3) Run Visual Studio's built-in server by clicking the play button in the
+    upper left-hand corner. The skeleton project should open automatically
+    in a web browser.
+4) In your web browser, you will see an incomplete tool for managing the posts
+    on a Facebook page. Your task will be to complete this tool such that it
+    shows all published and unpublished posts from your page in the (currently
+    blank) table and allows a user to create new published or unpublished posts
+    using the "New Post" button.
+5) Navigate to FacebookSEInterview/Views and familiarize yourself with the
+    code in the .cshtml files.
+6) Navigate to FacebookSEInterview/wwwroot/js/pagemanager.js and familiarize
+    yourself with the code.
+7) Familiarize yourself with
+    FacebookSEInterview/Controllers/PageManagerController.cs and the two files
+    in FacebookSEInterview/Utilities. In particular, understand how each of the
+    AJAX calls from pagemanager.js makes its way to the utils functions.
+
+Part 3 - Facebook Apps and Page Access Tokens
+1) Make a Facebook app (this is required to access the Facebook APIs).
+2) Figure out how to get a Facebook access token using your Facebook app, and
+    complete the GetAccessToken() function in PageManagerUtilities.cs.
+
+Part 4 - Creating and Reading Posts
+1) There is a bug somewhere in the distribution code; find it and fix it. (This
+    might be easier to do while working on steps 2 and 3.)
+2) Complete the CreatePost() function in PageManagerUtilities.cs.
+3) Complete the ReadPost() function in PageManagerUtilities.cs.
+4) Test your completed application thoroughly!
+
+Notes:
+- Feel free to use any additional libraries as needed.
+- Make sure you understand the code in all the non-library files, as you will be
+    asked to live-code an additional feature in your interview that involves
+    both front-end and back-end coding.

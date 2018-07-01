@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f363aaac-68a6-42e1-b4d5-e78d78197905" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FacebookSEInterview/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+              <folding>
+                <marker date="1524058388000" expanded="false" signature="6:258" ph="..." />
+                <marker date="1524058388000" expanded="true" signature="289:1399" ph="{...}" />
+                <marker date="1524058388000" expanded="true" signature="316:1397" ph="{...}" />
+                <marker date="1524058388000" expanded="true" signature="375:438" ph="{...}" />
+                <marker date="1524058388000" expanded="true" signature="661:712" ph="{...}" />
+                <marker date="1524058388000" expanded="true" signature="900:1391" ph="{...}" />
+                <marker date="1524058388000" expanded="true" signature="947:1024" ph="{...}" />
+                <marker date="1524058388000" expanded="true" signature="1041:1132" ph="{...}" />
+                <marker date="1524058388000" expanded="true" signature="1201:1379" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pagemanager.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FacebookSEInterview/wwwroot/js/pagemanager.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1002">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FacebookSEInterview/appsettings.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.Development.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FacebookSEInterview/appsettings.Development.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="pagemanagerenums.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FacebookSEInterview/wwwroot/js/pagemanagerenums.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="pagemanagersettings.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FacebookSEInterview/wwwroot/js/pagemanagersettings.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FacebookSEInterview/Views/PageManager/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1524058388000" expanded="true" signature="0:53" ph="@..." />
+                <marker date="1524058388000" expanded="true" signature="77:443" ph="&lt;div.../&gt;" />
+                <marker date="1524058388000" expanded="true" signature="105:296" ph="&lt;div.../&gt;" />
+                <marker date="1524058388000" expanded="true" signature="301:436" ph="&lt;div.../&gt;" />
+                <marker date="1524058388000" expanded="true" signature="327:425" ph="&lt;div.../&gt;" />
+                <marker date="1524058388000" expanded="true" signature="476:1306" ph="&lt;div.../&gt;" />
+                <marker date="1524058388000" expanded="true" signature="527:1299" ph="&lt;div.../&gt;" />
+                <marker date="1524058388000" expanded="true" signature="580:1273" ph="&lt;div.../&gt;" />
+                <marker date="1524058388000" expanded="true" signature="610:1258" ph="&lt;div.../&gt;" />
+                <marker date="1524058388000" expanded="true" signature="647:1048" ph="&lt;div.../&gt;" />
+                <marker date="1524058388000" expanded="true" signature="1065:1239" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PageManagerController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FacebookSEInterview/Controllers/PageManagerController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="23" column="40" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="40" />
+              <folding>
+                <marker date="1524058388000" expanded="false" signature="6:225" ph="..." />
+                <marker date="1524058388000" expanded="true" signature="268:1276" ph="{...}" />
+                <marker date="1524058388000" expanded="true" signature="322:1274" ph="{...}" />
+                <marker date="1524058388000" expanded="true" signature="365:412" ph="{...}" />
+                <marker date="1524058388000" expanded="true" signature="450:583" ph="{...}" />
+                <marker date="1524058388000" expanded="true" signature="627:762" ph="{...}" />
+                <marker date="1524058388000" expanded="true" signature="895:1032" ph="{...}" />
+                <marker date="1524058388000" expanded="true" signature="1088:1268" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PageManagerUtilities.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FacebookSEInterview/Utilities/PageManagerUtilities.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="52" column="50" lean-forward="true" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
+              <folding>
+                <marker date="1524058388000" expanded="false" signature="6:47" ph="..." />
+                <marker date="1524058388000" expanded="true" signature="88:2384" ph="{...}" />
+                <marker date="1524058388000" expanded="true" signature="135:2382" ph="{...}" />
+                <marker date="1524058388000" expanded="true" signature="150:242" ph="/* Returns a page access token for use in hitting the Facebook APIs. ... */" />
+                <marker date="1524058388000" expanded="true" signature="288:378" ph="{...}" />
+                <marker date="1524058388000" expanded="true" signature="388:974" ph="/* Makes a call to the Facebook APIs to create a page post, and calls the provided callback function ... */" />
+                <marker date="1524058388000" expanded="true" signature="1107:1178" ph="{...}" />
+                <marker date="1524058388000" expanded="true" signature="1188:1857" ph="/* Makes a call to the Facebook APIs to read all posts and unpublished posts from a page, and calls the provided ... */" />
+                <marker date="1524058388000" expanded="true" signature="1935:2376" ph="{...}" />
+                <marker date="1524058388000" expanded="true" signature="2135:2324" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ErrorViewModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FacebookSEInterview/Models/ErrorViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1524058388000" expanded="true" signature="51:217" ph="{...}" />
+                <marker date="1524058388000" expanded="true" signature="85:215" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>This is not a real post, just an example.</find>
+      <find>GetAccessToken</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/FacebookSEInterview/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FacebookSEInterview/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FacebookSEInterview/Views/PageManager/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FacebookSEInterview/Controllers/PageManagerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FacebookSEInterview/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FacebookSEInterview/Views/Shared/Error.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FacebookSEInterview/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FacebookSEInterview/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FacebookSEInterview/Utilities/PageManagerUtilities.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FacebookSEInterview/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="FacebookSEInterview (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="FacebookSEInterview (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="FacebookSEInterview" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="FacebookSEInterview (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="FacebookSEInterview" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="FacebookSEInterview (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="FacebookSEInterview" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="FacebookSEInterview (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="FacebookSEInterview" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="FacebookSEInterview (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="FacebookSEInterview" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PageManager" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="FacebookSEInterview (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="FacebookSEInterview" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Shared" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="FacebookSEInterview (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="FacebookSEInterview" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/FacebookSEInterview/bin/Debug/netcoreapp2.0/FacebookSEInterview.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FacebookSEInterview" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FacebookSEInterview/FacebookSEInterview.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f363aaac-68a6-42e1-b4d5-e78d78197905" name="Default" comment="" />
+      <created>1528523215446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528523215446</updated>
+      <workItem from="1528523219019" duration="1003000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1003000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" weight="0.32923076" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" weight="0.32923076" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32923076" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994872" visible="true" weight="0.2026862" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" weight="0.32923076" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" sideWeight="0.50051284" side_tool="true" weight="0.0054945056" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/FacebookSEInterview/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1524058388000" expanded="true" signature="16:1456" ph="&lt;html.../&gt;" />
+            <marker date="1524058388000" expanded="true" signature="27:1287" ph="&lt;head.../&gt;" />
+            <marker date="1524058388000" expanded="true" signature="1292:1448" ph="&lt;body.../&gt;" />
+            <marker date="1524058388000" expanded="true" signature="1307:1384" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookSEInterview/Views/Shared/Error.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1524058388000" expanded="true" signature="22:59" ph="@..." />
+            <marker date="1524058388000" expanded="true" signature="176:289" ph="@..." />
+            <marker date="1524058388000" expanded="true" signature="201:289" ph="{...}" />
+            <marker date="1524058388000" expanded="true" signature="208:287" ph="&lt;p.../&gt;" />
+            <marker date="1524058388000" expanded="true" signature="317:452" ph="&lt;p.../&gt;" />
+            <marker date="1524058388000" expanded="true" signature="453:843" ph="&lt;p.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookSEInterview/Views/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1524058388000" expanded="true" signature="0:28" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookSEInterview/Views/_ViewImports.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1524058388000" expanded="false" signature="7:60" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookSEInterview/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <marker date="1524058388000" expanded="false" signature="6:255" ph="..." />
+            <marker date="1524058388000" expanded="true" signature="286:607" ph="{...}" />
+            <marker date="1524058388000" expanded="true" signature="313:605" ph="{...}" />
+            <marker date="1524058388000" expanded="true" signature="366:424" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookSEInterview/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding>
+            <marker date="1524058388000" expanded="false" signature="6:258" ph="..." />
+            <marker date="1524058388000" expanded="true" signature="289:1399" ph="{...}" />
+            <marker date="1524058388000" expanded="true" signature="316:1397" ph="{...}" />
+            <marker date="1524058388000" expanded="true" signature="375:438" ph="{...}" />
+            <marker date="1524058388000" expanded="true" signature="661:712" ph="{...}" />
+            <marker date="1524058388000" expanded="true" signature="900:1391" ph="{...}" />
+            <marker date="1524058388000" expanded="true" signature="947:1024" ph="{...}" />
+            <marker date="1524058388000" expanded="true" signature="1041:1132" ph="{...}" />
+            <marker date="1524058388000" expanded="true" signature="1201:1379" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookSEInterview/wwwroot/js/pagemanagersettings.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookSEInterview/wwwroot/js/pagemanagerenums.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookSEInterview/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookSEInterview/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookSEInterview/Views/PageManager/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1524058388000" expanded="true" signature="0:53" ph="@..." />
+            <marker date="1524058388000" expanded="true" signature="77:443" ph="&lt;div.../&gt;" />
+            <marker date="1524058388000" expanded="true" signature="105:296" ph="&lt;div.../&gt;" />
+            <marker date="1524058388000" expanded="true" signature="301:436" ph="&lt;div.../&gt;" />
+            <marker date="1524058388000" expanded="true" signature="327:425" ph="&lt;div.../&gt;" />
+            <marker date="1524058388000" expanded="true" signature="476:1306" ph="&lt;div.../&gt;" />
+            <marker date="1524058388000" expanded="true" signature="527:1299" ph="&lt;div.../&gt;" />
+            <marker date="1524058388000" expanded="true" signature="580:1273" ph="&lt;div.../&gt;" />
+            <marker date="1524058388000" expanded="true" signature="610:1258" ph="&lt;div.../&gt;" />
+            <marker date="1524058388000" expanded="true" signature="647:1048" ph="&lt;div.../&gt;" />
+            <marker date="1524058388000" expanded="true" signature="1065:1239" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookSEInterview/Utilities/PageManagerUtilities.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="52" column="50" lean-forward="true" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
+          <folding>
+            <marker date="1524058388000" expanded="false" signature="6:47" ph="..." />
+            <marker date="1524058388000" expanded="true" signature="88:2384" ph="{...}" />
+            <marker date="1524058388000" expanded="true" signature="135:2382" ph="{...}" />
+            <marker date="1524058388000" expanded="true" signature="150:242" ph="/* Returns a page access token for use in hitting the Facebook APIs. ... */" />
+            <marker date="1524058388000" expanded="true" signature="288:378" ph="{...}" />
+            <marker date="1524058388000" expanded="true" signature="388:974" ph="/* Makes a call to the Facebook APIs to create a page post, and calls the provided callback function ... */" />
+            <marker date="1524058388000" expanded="true" signature="1107:1178" ph="{...}" />
+            <marker date="1524058388000" expanded="true" signature="1188:1857" ph="/* Makes a call to the Facebook APIs to read all posts and unpublished posts from a page, and calls the provided ... */" />
+            <marker date="1524058388000" expanded="true" signature="1935:2376" ph="{...}" />
+            <marker date="1524058388000" expanded="true" signature="2135:2324" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookSEInterview/Models/ErrorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1524058388000" expanded="true" signature="51:217" ph="{...}" />
+            <marker date="1524058388000" expanded="true" signature="85:215" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookSEInterview/Controllers/PageManagerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="40" />
+          <folding>
+            <marker date="1524058388000" expanded="false" signature="6:225" ph="..." />
+            <marker date="1524058388000" expanded="true" signature="268:1276" ph="{...}" />
+            <marker date="1524058388000" expanded="true" signature="322:1274" ph="{...}" />
+            <marker date="1524058388000" expanded="true" signature="365:412" ph="{...}" />
+            <marker date="1524058388000" expanded="true" signature="450:583" ph="{...}" />
+            <marker date="1524058388000" expanded="true" signature="627:762" ph="{...}" />
+            <marker date="1524058388000" expanded="true" signature="895:1032" ph="{...}" />
+            <marker date="1524058388000" expanded="true" signature="1088:1268" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookSEInterview/wwwroot/js/pagemanager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1002">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

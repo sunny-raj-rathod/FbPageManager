@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="FacebookSEInterview" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="Bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="PageManagerController.cs" t="Include" />
+        </e>
+        <e p="FacebookSEInterview.csproj" t="IncludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="ErrorViewModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="FacebookSEInterview.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Utilities" t="Include">
+          <e p="PageManagerPagePost.cs" t="Include" />
+          <e p="PageManagerUtilities.cs" t="Include" />
+        </e>
+        <e p="Views" t="Include">
+          <e p="_ViewImports.cshtml" t="Include" />
+          <e p="_ViewStart.cshtml" t="Include" />
+          <e p="PageManager" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="_Layout.cshtml" t="Include" />
+            <e p="Error.cshtml" t="Include" />
+          </e>
+        </e>
+        <e p="wwwroot" t="Include">
+          <e p="css" t="Include">
+            <e p="Bootstrap" t="Include">
+              <e p="editor.png" t="Include" />
+              <e p="imagebrowser.png" t="Include" />
+              <e p="indeterminate.gif" t="Include" />
+              <e p="loading-image.gif" t="Include" />
+              <e p="loading.gif" t="Include" />
+              <e p="loading_2x.gif" t="Include" />
+              <e p="markers.png" t="Include" />
+              <e p="markers_2x.png" t="Include" />
+              <e p="slider-h.gif" t="Include" />
+              <e p="slider-v.gif" t="Include" />
+              <e p="sprite.png" t="Include" />
+              <e p="sprite_2x.png" t="Include" />
+              <e p="sprite_kpi.png" t="Include" />
+              <e p="sprite_kpi_2x.png" t="Include" />
+            </e>
+            <e p="bootstrap.min.css" t="Include" />
+            <e p="bootstrap.min.css.map" t="Include" />
+            <e p="kendo.bootstrap-v4.min.css" t="Include" />
+            <e p="kendo.bootstrap-v4.min.css.map" t="Include" />
+            <e p="kendo.common-bootstrap.min.css" t="Include" />
+            <e p="kendo.common-bootstrap.min.css.map" t="Include" />
+            <e p="pagemanager.css" t="Include" />
+          </e>
+          <e p="favicon.ico" t="Include" />
+          <e p="js" t="Include">
+            <e p="bootstrap.bundle.min.js" t="Include" />
+            <e p="bootstrap.bundle.min.js.map" t="Include" />
+            <e p="jquery-1.12.3.min.js" t="Include" />
+            <e p="kendo.ui.core.min.js" t="Include" />
+            <e p="kendo.ui.core.min.js.map" t="Include" />
+            <e p="moment-timezone-with-data-2012-2022.min.js" t="Include" />
+            <e p="moment.js" t="Include" />
+            <e p="pagemanager.js" t="Include" />
+            <e p="pagemanagerenums.js" t="Include" />
+            <e p="pagemanagersettings.js" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="FacebookSEInterview.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_FacebookSEInterview.-2135138826.00" t="ExcludeRecursive" />
+  </component>
+</project>

@@ -1,0 +1,163 @@
+﻿@{
+    ViewData["Title"] = "Facebook Page Manager";
+}
+<!DOCTYPE html>
+<body class="fixed-nav sticky-footer bg-dark" id="page-top">
+    <!-- Navigation-->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+        <a class="navbar-brand" href="#" onclick="javascript:PageManager.loadData()">Facebook Page Manager</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
+                    <a class="nav-link" href="#" onclick="javascript:PageManager.loadData()">
+                        <i class="fa fa-fw fa-dashboard"></i>
+                        <span class="nav-link-text">Dashboard</span>
+                    </a>
+                </li>
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Pages">
+                    <a id="pages-accordion" class="nav-link nav-link-collapse" data-toggle="collapse" href="#collapseExamplePages" data-parent="#exampleAccordion" aria-expanded="true">
+                        <i class="fa fa-fw fa-file"></i>
+                        <span class="nav-link-text">Administered Pages</span>
+                    </a>
+                    <div id="pagesList">
+                    </div>
+                </li>
+            </ul>
+            <ul class="navbar-nav sidenav-toggler">
+                <li class="nav-item">
+                    <a class="nav-link text-center" id="sidenavToggler">
+                        <i class="fa fa-fw fa-angle-left"></i>
+                    </a>
+                </li>
+            </ul>
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link mr-lg-2" id="messagesDropdown" href="#" data-toggle="dropdown">
+                        <i class="fa fa-user-circle"></i>
+                        <span id="spanUserName"></span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-toggle="modal" data-target="#logoutModal" id="logoutButton" style="display : none;">
+                        <i class="fa fa-fw fa-sign-out"></i>Logout
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="content-wrapper">
+        <div class="container-fluid">
+            <!-- Breadcrumbs-->
+            <ol id="topbreadcrumb" class="breadcrumb"></ol>
+            <!-- Icon Cards-->
+            <div id="spa-container">
+            </div>
+            <div id="pageTables">
+            </div>
+        </div>
+        <!-- /.container-fluid-->
+        <!-- /.content-wrapper-->
+        <footer class="sticky-footer">
+            <div class="container">
+                <div class="text-center">
+                    <small>Copyright © Your Website 2018</small>
+                </div>
+            </div>
+        </footer>
+        <!-- Scroll to Top Button-->
+        <a class="scroll-to-top rounded" href="#page-top">
+            <i class="fa fa-angle-up"></i>
+        </a>
+        <!-- Logout Modal-->
+        <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
+                        <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">×</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
+                    <div class="modal-footer">
+                        <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
+                        <a class="btn btn-primary" onclick="javascript:PageManager.logout()" href="#">Logout</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="newPostModal" class="modal fade">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">New Post</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="form-group">
+                            <textarea id="newPostMessage" rows="10" class="form-control"></textarea>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" onclick="javascript:PageManager.createNewPost(false)">Save As Draft</button>
+                    <button type="button" class="btn btn-primary" onclick="javascript:PageManager.createNewPost(true)">Publish</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="editPostModal" class="modal fade">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Edit Post</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="form-group">
+                            <textarea id="editPostMessage" rows="10" class="form-control" readonly></textarea>
+                        </div>
+                        <div id="postInsightsSections">
+                            <div id="commentsSection" style="float:left;width:30%">
+                                <button style="font-size: 24px" id="numberOfComments" disabled> </button>
+                            </div>
+                            <div id="reactionsSection">
+                                <button style="font-size: 24px" id="numberOfReactions" disabled> </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" id="edit-draft-post" class="btn btn-primary" onclick="javascript:PageManager.enableEditPost()">Edit</button>
+                    <button type="button" id="save-draft-post" class="btn btn-primary" onclick="javascript:PageManager.savePostUpdate(false)">Save As Draft</button>
+                    <button type="button" id="edit-post-publish" class="btn btn-primary" onclick="javascript:PageManager.savePostUpdate(true)">Publish</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="loginModal" class="modal fade">
+        <div class="modal-dialog modal-md">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Login</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <div class="card card-login mx-auto mt-5">
+                        <div class="card-body">
+                            <div class="fb-login-button" scope="email, read_insights, manage_pages, pages_show_list, publish_pages, public_profile"
+                                 data-width="500" data-max-rows="1" data-size="medium" data-onlogin="javascript:PageManager.checkLoginState();" 
+                                 data-button-type="continue_with" data-show-faces="false" data-auto-logout-link="false" data-use-continue-as="true" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>

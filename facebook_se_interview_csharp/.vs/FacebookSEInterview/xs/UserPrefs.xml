@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{366DC862-B4E9-4E28-AD0A-E929F9730B60}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FacebookSEInterview/Views/PageManager/Index.cshtml">
+    <Files>
+      <File FileName="FacebookSEInterview/wwwroot/js/pagemanager.js" Line="120" Column="13" />
+      <File FileName="FacebookSEInterview/Views/PageManager/Index.cshtml" Line="138" Column="62" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.FacebookSEInterview PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
