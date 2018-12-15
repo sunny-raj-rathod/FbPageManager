@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace FacebookSEInterview.Models
+namespace FbPageManager.Models
 {
     public class ValueInfo
     {

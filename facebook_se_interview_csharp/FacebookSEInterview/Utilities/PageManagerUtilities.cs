@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Net.Http;
 using System.Collections.Generic;
-using FacebookSEInterview.Models;
+using FbPageManager.Models;
 
-namespace FacebookSEInterview.Utilities
+namespace FbPageManager.Utilities
 {
     public static class PageManagerUtilities
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Net.Http;
 
-namespace FacebookSEInterview.Utilities
+namespace FbPageManager.Utilities
 {
     public static class HttpUtility
     {

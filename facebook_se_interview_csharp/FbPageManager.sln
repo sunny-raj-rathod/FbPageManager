@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookSEInterview", "FacebookSEInterview\FacebookSEInterview.csproj", "{366DC862-B4E9-4E28-AD0A-E929F9730B60}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FbPageManager", "FacebookSEInterview\FbPageManager.csproj", "{366DC862-B4E9-4E28-AD0A-E929F9730B60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

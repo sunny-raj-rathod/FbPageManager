@@ -1,5 +1,5 @@
 ﻿using System;
-namespace FacebookSEInterview.Utilities
+namespace FbPageManager.Utilities
 {
     public class Constants
     {

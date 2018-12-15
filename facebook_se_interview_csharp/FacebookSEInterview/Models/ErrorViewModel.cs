@@ -1,6 +1,6 @@
-using System;
+﻿using System;
 
-namespace FacebookSEInterview.Models
+namespace FbPageManager.Models
 {
     public class ErrorViewModel
     {

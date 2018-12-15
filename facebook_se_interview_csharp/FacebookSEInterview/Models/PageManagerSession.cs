@@ -1,5 +1,5 @@
 ﻿using System;
-namespace FacebookSEInterview.Models
+namespace FbPageManager.Models
 {
     public class PageManagerSession
     {

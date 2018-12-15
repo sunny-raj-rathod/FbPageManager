@@ -12570,11 +12570,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sunnyrajrathod/Desktop/Tech Demo Files - Sunny Rathod/facebook_se_interview_csharp/FacebookSEInterview/FacebookSEInterview.csproj",
-      "projectName": "FacebookSEInterview",
-      "projectPath": "/Users/sunnyrajrathod/Desktop/Tech Demo Files - Sunny Rathod/facebook_se_interview_csharp/FacebookSEInterview/FacebookSEInterview.csproj",
+      "projectUniqueName": "/Users/sunnyrajrathod/Desktop/FbPageManager/FbPageManager/facebook_se_interview_csharp/FacebookSEInterview/FbPageManager.csproj",
+      "projectName": "FbPageManager",
+      "projectPath": "/Users/sunnyrajrathod/Desktop/FbPageManager/FbPageManager/facebook_se_interview_csharp/FacebookSEInterview/FbPageManager.csproj",
       "packagesPath": "/Users/sunnyrajrathod/.nuget/packages/",
-      "outputPath": "/Users/sunnyrajrathod/Desktop/Tech Demo Files - Sunny Rathod/facebook_se_interview_csharp/FacebookSEInterview/obj",
+      "outputPath": "/Users/sunnyrajrathod/Desktop/FbPageManager/FbPageManager/facebook_se_interview_csharp/FacebookSEInterview/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

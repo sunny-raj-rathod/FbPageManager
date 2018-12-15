@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{366DC862-B4E9-4E28-AD0A-E929F9730B60}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FacebookSEInterview/Views/PageManager/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FacebookSEInterview/Utilities/PageManagerUtilities.cs">
     <Files>
-      <File FileName="FacebookSEInterview/wwwroot/js/pagemanager.js" Line="120" Column="13" />
-      <File FileName="FacebookSEInterview/Views/PageManager/Index.cshtml" Line="138" Column="62" />
+      <File FileName="FacebookSEInterview/Controllers/PageManagerController.cs" Line="52" Column="41" />
+      <File FileName="FacebookSEInterview/Utilities/PageManagerUtilities.cs" Line="54" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

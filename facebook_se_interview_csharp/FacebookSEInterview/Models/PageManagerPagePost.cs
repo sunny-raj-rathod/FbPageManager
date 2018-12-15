@@ -1,4 +1,4 @@
-﻿namespace FacebookSEInterview.Models
+﻿namespace FbPageManager.Models
 {
     public class PageManagerPagePost
     {

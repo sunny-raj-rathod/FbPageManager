@@ -2,10 +2,10 @@
 using System.Diagnostics;
 using System.Linq;
 using Microsoft.AspNetCore.Mvc;
-using FacebookSEInterview.Models;
-using FacebookSEInterview.Utilities;
+using FbPageManager.Models;
+using FbPageManager.Utilities;
 
-namespace FacebookSEInterview.Controllers
+namespace FbPageManager.Controllers
 {
     public class PageManagerController : Controller
     {
@@ -49,7 +49,7 @@ namespace FacebookSEInterview.Controllers
             string postContent,
             bool isPublished)
         {
-            PageManagerUtilities.UpdatePost(postId, pageId, accessToken, postContent, isPublished);
+            PageManagerUtilities.UpdatePost(postId, accessToken, postContent, isPublished);
             return Json(new { });
         }
 
